@@ -1,0 +1,1 @@
+from .behaviorinterface import {{cookiecutter.conversion_name_camel_case}}BehaviorInterface
